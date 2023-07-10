@@ -3,23 +3,6 @@
   --secondary-color: #f5f2fe;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
-
-.content h2{
-color: #000;
-font-family: Playfair Display;
-font-size: 64px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-}
-.content p{
-  color: rgba(39, 33, 66, 0.70);
-font-family: Poppins;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
-}
 .view-link{
   font-family: Poppins;
     font-size: 15px;
@@ -80,7 +63,6 @@ font-size: 64px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
-margin: 200px 0px 2px 0px;
 }
 .content h3{
   color: #272142;
@@ -89,7 +71,6 @@ font-size: 18px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
-margin: 20px 0px 2px 0px;
 }
 .content p{
   color: rgba(39, 33, 66, 0.70);
