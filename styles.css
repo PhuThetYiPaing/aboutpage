@@ -4,7 +4,7 @@
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
-.project-description h2{
+.content h2{
 color: #000;
 font-family: Playfair Display;
 font-size: 64px;
@@ -12,7 +12,7 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 }
-.project-description p{
+.content p{
   color: rgba(39, 33, 66, 0.70);
 font-family: Poppins;
 font-size: 16px;
@@ -107,13 +107,12 @@ margin:30px;
     font-weight: 100;
     line-height: normal;
     border-radius: 4px;
-    padding: 20px 15px;
+    padding: 15px 30px;
     text-decoration: none;
     text-transform: capitalize;
     background: var(--primary-color);
     box-shadow: var(--box-shadow);
     color: white;
-    margin:230px;
 }
 .description h2{
 color: #000;
@@ -123,6 +122,9 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 margin: 250px 600px 250px 144px;
+}
+.new-container {
+    padding: 160px 20px;
 }
 =======
 @media (max-width:600px) {
